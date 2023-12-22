@@ -10,6 +10,7 @@ bawa ke kantornya.
 Berikut merupakan List barang yang bisa dibawa oleh Bobe
 
 Kode                  Barang                         Berat          Prioritas
+
 B1                    Charger Laptop                 1000g          8
 
 B2                    Laptop                         3000g          9
