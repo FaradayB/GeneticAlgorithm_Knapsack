@@ -33,7 +33,7 @@ def table_popu(list_pop, list_popAwal):
     # print(area)
     
     table = zip(chromo, individu, fitness, Selected_Prob, Cumulative_Prob, area)
-    print("Selection Function")
+    print("**Selection Function**")
     print(tabulate(table, headers = header, floatfmt = ".3f"))
     
     return Selected_Prob
