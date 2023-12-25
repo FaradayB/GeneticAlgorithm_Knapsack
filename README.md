@@ -15,7 +15,7 @@ Here is the list of items that Bobe can bring:
 |  B1  |  Laptop Charger  |  1000  |  8  |
 |  B2  |  Laptop  |  3000  |  9  |
 |  B3  |  Power Bank  |  200  |  6  |
-|  B4  |  Charger Phone Pouch  |  100  |  7  |
+|  B4  |  Phone Charger Pouch  |  100  |  7  |
 |  B5  |  ANC Headset  |  400  |  5  |
 |  B6  |  Earbuds  |  100  |  4  |
 |  B7  |	Wireless Mouse  |  50  |	7  |
