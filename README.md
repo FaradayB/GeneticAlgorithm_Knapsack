@@ -4,21 +4,38 @@ The problem is that Bobe wants to bring some essential items to the office, but 
 
 Here is the list of items that Bobe can bring:
 
-Code	Item	Weight (g)	Priority
+Code	Item	Weight(g)	Priority
+
 B1	Laptop Charger	1000	8
+
 B2	Laptop	3000	9
+
 B3	Power Bank	200	6
+
 B4	Charger Pouch for HP	100	7
+
 B5	ANC Headset	400	5
+
 B6	Earbuds	100	4
+
 B7	Wireless Mouse	50	7
+
 B8	Flash Drive	10	6
+
 B9	Keyboard	500	4
+
 B10	Notebook	100	2
+
 B11	Pencil Case	200	1
+
 B12	Water Bottle	1500	5
+
 B13	Umbrella	700	6
+
 B14	USB Hub	100	5
+
 B15	Medicinal Pouch	600	6
+
 B16	Sunscreen Bottle	400	2
+
 Now, let's create a genetic algorithm to solve this Knapsack problem for each available bag.
