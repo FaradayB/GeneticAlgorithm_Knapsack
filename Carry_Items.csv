@@ -1,17 +1,17 @@
-﻿Kode,Barang,Berat,Prioritas
-B1,Charger Laptop,300,8
+﻿Code,Items,Weight(g),Priority
+B1,Laptop Charger,300,8
 B2,Laptop,1400,9
 B3,Power Bank,300,6
-B4,Pouch Kabel Charger HP,100,7
+B4,Phone Charger Pouch,100,7
 B5,ANC Headset,300,5
 B6,Earbuds,100,4
 B7,Wireless Mouse,100,7
 B8,Flash Drive,10,6
 B9,Keyboard,750,4
-B10,Buku Tulis,50,2
-B11,Tempat Pensil,100,2
-B12,Botol Minum,1500,5
-B13,Payung,230,6
+B10,Notebook,50,2
+B11,Pencil Case,100,2
+B12,Water Bottle,1500,5
+B13,Umbrella,230,6
 B14,USB Hub,50,5
 B15,Medicinal Pouch,150,6
-B16,Botol Sunscreen,100,2
+B16,Sunscreen Bottle,100,2
