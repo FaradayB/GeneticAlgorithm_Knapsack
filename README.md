@@ -1,4 +1,4 @@
-# GENETIC ALGORITHM END PROJECT GROUP 6
+# **GENETIC ALGORITHM END PROJECT GROUP 6**
 ### Team Members
 1. Amalul Anugrah Amin (1103213054)
 2. Faraday Barr Fatahillah (1103213028)
