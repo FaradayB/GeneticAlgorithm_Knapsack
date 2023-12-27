@@ -1,9 +1,6 @@
 from tabulate import tabulate
 
 def table_popu(list_pop, list_popAwal):
-    # sum_listPop = [sum(list_pop[i]) for i in range(len(list_pop))]
-    # print(sum_listPop)
-    # for i in list_pop: print(i)
     header = ['Chromosome', 'Individu', 'Fitness', 'Relative Fitness', 'Cumulative Fitness', 'Chromosome Area']
     
     chromo = [f'k{i}' for i in range(len(list_pop))]
@@ -24,13 +21,6 @@ def table_popu(list_pop, list_popAwal):
                 area.append(f'{Cumulative_Prob[i-1]} - {Cumulative_Prob[i]}')
         else:
             area.append(f'{Cumulative_Prob[i-1]} - {Cumulative_Prob[i]}')
-
-    # print(chromo)
-    # print(individu)
-    # print(fitness)
-    # print(Selected_Prob)
-    # print(Cumulative_Prob)
-    # print(area)
     
     table = zip(chromo, individu, fitness, Selected_Prob, Cumulative_Prob, area)
     print(tabulate(table, headers = header, floatfmt = ".3f"))
